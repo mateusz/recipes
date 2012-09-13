@@ -1,6 +1,4 @@
-### 19 July 2012, Friday
-
-The internet is restless today. I needed some context for search results from my databases.
+### Highlighting for search results
 
 ```php
 function results($data, $form, $request) {
